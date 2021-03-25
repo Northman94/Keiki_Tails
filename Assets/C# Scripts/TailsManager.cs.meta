@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 69d8bf345825042be96b190bd7e5e7a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mouseTail: {fileID: 8048167087767754707, guid: 70db366a21d3a49629a88511ac6507b7, type: 3}
+  - horseTail: {fileID: 1445688464212762139, guid: 3c6043287f59b4a49819fce2134cb4af, type: 3}
+  - dogTail: {fileID: 8095827054531864969, guid: 81f3a7c4fc88b4ec18acd33ff4ef4275, type: 3}
+  - pigTail: {fileID: 777888855757659468, guid: 3d271342d267c4565acd33f9d887292e, type: 3}
+  - catTail: {fileID: 1612752517960988463, guid: 2721ae27666df4e39b887a9bb463a852, type: 3}
+  - cowTail: {fileID: 4348603302453515779, guid: 68a4dd20a7c3049e9bb68b3ae110992f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

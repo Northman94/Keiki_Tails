@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6f10852c19d4e4181b395474cc4de806
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pigPrefab: {fileID: 3524511707665881032, guid: c13b673fe3d844462ab6b3d738d27f4b, type: 3}
+  - catPrefab: {fileID: 6755074671032574279, guid: 2ebf1271248a6493ba3cbe13321e8929, type: 3}
+  - dogPrefab: {fileID: 6273750590850597667, guid: 83bb46d05eab64d30a3e127fc9d43686, type: 3}
+  - mousePrefab: {fileID: 4007108999116601995, guid: 1c5994ffc55f249b694ea5ed5a19c2c9, type: 3}
+  - cowPrefab: {fileID: 1458245994138305899, guid: 5de20bc37efb54879b532f3648325a94, type: 3}
+  - horsePrefab: {fileID: 2744446049468241209, guid: dba8c2b6e85f24acd8b7ae3cd3561a25, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
